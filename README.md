@@ -2,3 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF787&width=435&lines=Hello+Guys!;Want+search+plugin+or+mods%3F;See+at+repo+DanzuLibrary)](https://git.io/typing-svg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DanzuDev)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+![My Skills](https://skillicons.dev/icons?i=js,php,java,android,firebase)
