@@ -2,7 +2,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF787&width=435&lines=Hello+Guys!;Want+search+plugin+or+mods%3F;See+at+repo+DanzuLibrary)](https://git.io/typing-svg)
 
 ## About Me:
-`testing`
+```zsh
+root@localhost: ~/readme (main)$ neofetch
+```
+
+```
+root@localhost
+-------------------------
+Username: DanzzuPMP
+Country: Indonesian
+Fav.Colors: Indigo, Blue Sky
+Fav.Food: Nasi Padang
+Hobbies: Playing Badminton, And Mobile Games
+Learning: NodeJS, Python, JavaScript, Bash
+Fav.Anime: Dr.Stone
+```
 
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,bash,firebase)
