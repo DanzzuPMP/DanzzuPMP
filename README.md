@@ -1,1 +1,1 @@
-hei
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF787&width=435&lines=Hello+Guys!;Want+search+plugin+or+mods%3F;See+at+repo+DanzuLibrary)](https://git.io/typing-svg)
