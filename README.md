@@ -6,5 +6,4 @@
 _If you want see all my PMP project yiu can see at my Repository DanzuLibrary_
 
 ## My Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![NodeJS](https://img.shields.io/badge/Node-JS-yellow)
+![My Skills](https://skillicons.dev/icons?i=js,php,python,nodejs,firebase)
