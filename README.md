@@ -6,6 +6,8 @@
 root@localhost: ~/readme (main)$ neofetch
 ```
 
+![DanzuPMP](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/refs/heads/main/img/Danzu.svg)
+
 ```
 root@localhost
 -------------------------
