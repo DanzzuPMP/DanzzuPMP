@@ -6,7 +6,7 @@
 root@localhost: ~/readme (main)$ neofetch
 ```
 
-<img align="left" src="img/Danzu.svg" width="100px"/>
+<img align="left" src="img/Danzu.svg" width="135px height=100"/>
 
 ```
 root@localhost
