@@ -10,6 +10,6 @@ _If you want see all my PMP project yiu can see at my Repository DanzuLibrary_
 ## Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=DanzuDev)
+![Trophy](https://github-profile-trophy.vercel.app/?username=DanzzuPMP)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzuDev)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
