@@ -7,3 +7,5 @@ _If you want see all my PMP project yiu can see at my Repository DanzuLibrary_
 
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,bash,firebase)
+## Quotes
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
