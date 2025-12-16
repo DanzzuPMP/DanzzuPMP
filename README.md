@@ -8,7 +8,7 @@ _If you want see all my PMP project yiu can see at my Repository DanzuLibrary_
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,bash,firebase)
 ## Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dont%20Give%20Up%20to%20Early%20You%20can%20definitely%20do%20it%20if%20you%20keep%20trying!&author=DanzzuPMP)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%E2%80%99s%20no%20such%20thing%20as%20impossible.%20It%E2%80%99s%20just%20a%20matter%20of%20time%20and%20effort.&author=Senku%20Ishigami)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
 
