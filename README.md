@@ -8,6 +8,6 @@ _If you want see all my PMP project yiu can see at my Repository DanzuLibrary_
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,bash,firebase)
 ## Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dont&20Give&20Up&20to&20Early&20You&20can&20definitely&20do&20it&20if&20you&20keep&20trying!&author=DanzzuPMP)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dont%20Give%20Up%20to%20Early%20You%20can%20definitely%20do%20it%20if%20you%20keep%20trying!&author=DanzzuPMP)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
