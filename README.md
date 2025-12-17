@@ -35,4 +35,4 @@ Fav.Anime: Dr.Stone
 ![Snake Dark](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/output/github-contribution-grid-snake-dark.svg)
 
 ## Top Respository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=DanzuLibrary)](https://github.com/DanzzuPMP/DanzuLibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=DanzuLibrary&show_owner=true)](https://github.com/DanzzuPMP/DanzuLibrary)
