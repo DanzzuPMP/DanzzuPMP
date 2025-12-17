@@ -34,6 +34,5 @@ Fav.Anime: Dr.Stone
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanzzuPMP&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=github-readme-stats)](https://github.com/DanzzuPMP/DanzuLibrary)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+## Top Respository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=DanzuLibrary)](https://github.com/anuraghazra/github-readme-stats)
