@@ -28,11 +28,11 @@ Fav.Anime: Dr.Stone
 ## My Stats
 ![Danzzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanzzuPMP&show_icons=true&theme=radical)
 
-![Snake Dark](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/output/github-contribution-grid-snake-dark.svg)
-
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanzzuPMP&layout=compact)
 
+![Snake Dark](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/output/github-contribution-grid-snake-dark.svg)
+
 ## Top Respository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=DanzuLibrary)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanzzuPMP&repo=DanzuLibrary)](https://github.com/DanzzuPMP/DanzuLibrary)
