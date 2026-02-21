@@ -30,6 +30,4 @@ Fav.Anime: Dr.Stone
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanzzuPMP&layout=compact)
-
 ![Snake Dark](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/output/github-contribution-grid-snake-dark.svg)
