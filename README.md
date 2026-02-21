@@ -26,8 +26,6 @@ Fav.Anime: Dr.Stone
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=There%E2%80%99s%20no%20such%20thing%20as%20impossible.%20It%E2%80%99s%20just%20a%20matter%20of%20time%20and%20effort.&author=Senku%20Ishigami)
 
 ## My Stats
-![Danzzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanzzuPMP&show_icons=true&theme=radical)
-
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanzzuPMP)
 
 ![Snake Dark](https://raw.githubusercontent.com/DanzzuPMP/DanzzuPMP/output/github-contribution-grid-snake-dark.svg)
