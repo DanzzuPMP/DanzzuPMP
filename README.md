@@ -13,11 +13,11 @@ root@localhost
 -------------------------
 Username: DanzzuPMP
 Country: Indonesian
-Fav.Colors: Indigo, Blue Sky
+Fav.Colors: #6717c2, #3452eb
 Fav.Food: Nasi Padang
-Hobbies: Playing Badminton, And Mobile Games
-Learning: NodeJS, Python, JavaScript, Bash
-Fav.Anime: Dr.Stone
+Hobbies: Swimming, And Mobile Games
+Learning: NodeJS, Python, JavaScript, Bash, PHP
+Fav.Anime: Dr.Stone, Jujutshu Kaisen
 ```
 
 ## My Skills:
