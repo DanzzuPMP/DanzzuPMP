@@ -1,3 +1,5 @@
+<!-- Tempel sebagai README.md di repo DanzzuPMP/DanzzuPMP. Tambahkan bagian proyek baru saat kamu mengerjakan hal lain. -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=DanzzuPMP&fontSize=56&fontAlignY=38&desc=PocketMine-MP%20developer&descSize=18&descAlignY=58&animation=fadeIn" alt="DanzzuPMP banner">
 </p>
@@ -7,33 +9,28 @@
 </p>
 
 <p align="center">
-  <!-- [ISI] Badge yang kamu mau: situs, Discord, email, dan sebagainya -->
   <a href="https://github.com/DanzzuPMP"><img src="https://img.shields.io/badge/GitHub-DanzzuPMP-24292f?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 ## About
 
-I build things on **PocketMine-MP**, from plugins to server-level work. I like understanding how things work underneath, from game logic to the network protocol, and then making them better.
+I'm a developer who enjoys working with **PocketMine-MP** and learning how Minecraft servers work underneath, from game logic to the network protocol. I learn by building, and I try to be a little better than I was before.
 
-## What I work on
+## Currently
 
-- **Plugins and gameplay features** for PocketMine-MP servers `[ISI: contoh jenis plugin yang kamu buat]`
-- **Server software and forks**, including multi-version support
-- **Networking and protocols**, packets, and cross-version compatibility
-- **Tools and automation** around servers `[ISI: bot, skrip, dashboard, dan sebagainya]`
+- Building **[Axiom](https://axiommc.bond)**, a multi-version Minecraft server where classic and modern clients play together in one world, with no extra proxy. It is open for testers.
 
-## Projects
+## Interests
 
-| Project | What it is |
-| ------- | ---------- |
-| **[Axiom](https://axiommc.bond)** | A multi-version Minecraft server where classic and modern clients play together, with no extra proxy. Open for testers. |
-| **[ISI: nama proyek]** | `[ISI: satu kalimat]` |
-| **[ISI: nama proyek]** | `[ISI: satu kalimat]` |
+- PocketMine-MP and its internals
+- Network protocols and cross-version compatibility
+- Server tooling and automation
+- Learning new things by building them
 
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,js,nodejs,python,bash,git,github,firebase&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=php,java,js,nodejs,python,bash,linux,git,github,firebase&perline=10" alt="Tech stack">
 </p>
 
 ## GitHub stats
