@@ -1,5 +1,3 @@
-<!-- Tempel sebagai README.md di repo DanzzuPMP/DanzzuPMP. Tambahkan bagian proyek baru saat kamu mengerjakan hal lain. -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=DanzzuPMP&fontSize=56&fontAlignY=38&desc=PocketMine-MP%20developer&descSize=18&descAlignY=58&animation=fadeIn" alt="DanzzuPMP banner">
 </p>
@@ -18,19 +16,19 @@ I'm a developer who enjoys working with **PocketMine-MP** and learning how Minec
 
 ## Currently
 
-- Building **[Axiom](https://axiommc.bond)**, a multi-version Minecraft server where classic and modern clients play together in one world, with no extra proxy. It is open for testers.
+- Building **[Axiom](https://axiommc.bond)**, a multi-version Minecraft server where classic and modern clients play together in one world, with no extra proxy.
 
 ## Interests
 
 - PocketMine-MP and its internals
 - Network protocols and cross-version compatibility
 - Server tooling and automation
-- Learning new things by building them
+- Learning new things by build it and trying them
 
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,java,js,nodejs,python,bash,linux,git,github,firebase&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=php,java,js,nodejs,python,bash,git,github,firebase&perline=10" alt="Tech stack">
 </p>
 
 ## GitHub stats
