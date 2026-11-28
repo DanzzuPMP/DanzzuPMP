@@ -1,8 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DanzzuPMP&descAlign=72&descAlignY=64&strokeWidth=1&stroke=5&animation=fadeIn&textBg=false&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Just+trying+to+be+better+from+before.;++++++++++++Like+PMMP!!!)](https://google.com)
 
-<img align="left" src="img/Danzu.svg" width="135px height=100"/>
-
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,python,bash,firebase)
 ## Quotes
