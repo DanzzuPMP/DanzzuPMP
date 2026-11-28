@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DanzzuPMP"><img src="https://img.shields.io/badge/GitHub-DanzzuPMP-24292f?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.youtube.com/@DanzuPMP"><img src="https://img.shields.io/badge/DanzuPMP-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@DanzuPMP"><img src="https://img.shields.io/badge/YouTube-DanzuPMP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ## About
